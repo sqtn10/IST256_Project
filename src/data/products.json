@@ -1,1 +1,82 @@
-
+[
+    {
+        "id": 1,
+        "name": "Drill",
+        "price": 100,
+        "description": "High performance eletric drill that delivers 210 unit watts out",
+        "image": "https://www.mrpowertools.com/data/watermark/20230906/64f815fd03e83.jpg",
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "name": "Electric Saw",
+        "price": 120,
+        "description": "High performance eletric saw that delivers 230 unit watts out",
+        "image": "https://www.mrpowertools.com/data/watermark/20230603/647af3ef6ebb6.jpg",
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "name": "Angle Grinder",
+        "price": 110,
+        "description": "High performance eletric grinder that delivers 220 unit watts out",
+        "image": "https://www.mrpowertools.com/data/watermark/20230705/64a51e5154511.jpg",
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "name": "Lithium Blower",
+        "price": 90,
+        "description": "High performance eletric blower that delivers 200 unit watts out",
+        "image": "https://www.mrpowertools.com/data/watermark/20231115/655479bce7b31.jpg",
+        "stock": 10
+    },
+    {
+        "id": 5,
+        "name": "Jig Saw",
+        "price": 90,
+        "description": "High performance eletric jig saw that delivers 200 unit watts out",
+        "image": "https://www.mrpowertools.com/data/watermark/20231115/6554762dc4b7f.jpg",
+        "stock": 10
+    },
+    {
+        "id": 6,
+        "name": "Double Speed Impact Drill",
+        "price": 150,
+        "description": "High performance eletric double speed drill that delivers 400 unit watts out",
+        "image": "https://www.mrpowertools.com/data/watermark/20230808/64d1a356d097b.jpg",
+        "stock": 10
+    },
+    {
+        "id": 7,
+        "name": "Profile Cutting Machine",
+        "price": 90,
+        "description": "High performance eletric cutting machine that delivers 200 unit watts out",
+        "image": "https://www.mrpowertools.com/data/watermark/20230603/647b03e437a73.jpg",
+        "stock": 10
+    },
+    {
+        "id": 8,
+        "name": "Demolition Hammer",
+        "price": 90,
+        "description": "High performance eletric demolition hammer that delivers 200 unit watts out",
+        "image": "https://www.mrpowertools.com/data/watermark/20230606/647e8218b2935.jpg",
+        "stock": 10
+    },
+    {
+        "id": 9,
+        "name": "Concrete mixer",
+        "price": 80,
+        "description": "High performance eletric concrete mixer that delivers 190 unit watts out",
+        "image": "https://www.mrpowertools.com/data/watermark/20230606/647ea519f18a1.jpg",
+        "stock": 10
+    },
+    {
+        "id": 10,
+        "name": "Orbital Sander",
+        "price": 90,
+        "description": "High performance eletric orbital sander that delivers 200 unit watts out",
+        "image": "https://www.mrpowertools.com/data/watermark/20230705/64a525ed5beda.jpg",
+        "stock": 10
+    }
+]
