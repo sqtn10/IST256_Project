@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import 'bootstrap/dist/css/bootstrap.css';
 import { Navbar, Container, Nav, Form, InputGroup, Button } from 'react-bootstrap';
 import { Search, Cart3 as Cart } from 'react-bootstrap-icons'; 
 import logo from '../assets/TheHomeDepot.svg';
