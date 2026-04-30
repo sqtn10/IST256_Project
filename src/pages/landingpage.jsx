@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import '../components/navbar'
+import 'bootstrap/dist/css/bootstrap.css';
+import { Navbar, Container, Nav} from 'react-bootstrap';
 
 export default class LandingPage extends Component {
     render() {
