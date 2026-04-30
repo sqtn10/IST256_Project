@@ -6,7 +6,6 @@ const Footer = () => {
         <footer className="footer bg-dark text-light pt-5 mt-5">
             <Container>
                 <Row>
-
                     <Col md={3}>
                         <h6 className="fw-bold">Customer Service</h6>
                         <ul className="list-unstyled">
