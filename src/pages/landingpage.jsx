@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import '../components/navbar'
 
 export default class LandingPage extends Component {
     render() {
