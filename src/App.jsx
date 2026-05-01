@@ -10,16 +10,24 @@ import CheckoutPage from './pages/checkoutpage';
 function App() {
     return (
         <Router>
-            <div className="App">
+            <div className="d-flex flex-column min-vh-100">
+
                 <MyNav />
+
+            <div className="flex-grow-1">
+            <div className="App">
                 <Routes>
                     <Route path="/" element={<LandingPage/>}/>
                     <Route path="/products" element={<ProductPage/>}/>
                     <Route path="/cart" element={<ShoppingCart/>}/>
                     <Route path="/checkout" element={<CheckoutPage/>}/>
                 </Routes>
+                </div>
+
+                </div>
                 <Footer />
             </div>
+
         </Router>
     );
 }
