@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Drill",
         "price": 100,
-        "description": "Eletric Drill 210 watts",
+        "description": "Electric Drill 210 watts",
         "image": "https://www.airgas.com/medias/270Wx270H-DEWDCD798B.png?context=bWFzdGVyfHByb2R1Y3R8NDkyMTh8aW1hZ2UvcG5nfHByb2R1Y3QvaDc2L2g4OS8xMjE3NDQyNDA4MDQxNC5wbmd8ZWZjNDViYzZjOGI0YjZiYWM3ZWFhMWMzYmI1Y2Q3ZWYwOGViYzk3YjRiZmM4YWJhODA0MDk0ZjNmYTZlMzNhYQ",
         "stock": 10
     },
@@ -11,7 +11,7 @@
         "id": 2,
         "name": "Electric Saw",
         "price": 120,
-        "description": "Eletric Saw 230 watts",
+        "description": "Electric Saw 230 watts",
         "image": "https://www.airgas.com/medias/CM-000000ORZD-Product-DEWDCS391P1-270Wx270H?context=bWFzdGVyfHByb2R1Y3R8MTkzODV8aW1hZ2UvanBlZ3xwcm9kdWN0L2gyYy9oZDIvMTIwOTIwMTQ4MjE0MDYuanBnfDY1NTRmMzNmZmZkODI4NWJhOTlkYzkwZDFiNjYyNTlkNWRmMTlhZjA2OGMyNmJlOGMwNWM5NzY1ODhjMTM1NjY",
         "stock": 10
     },
@@ -19,7 +19,7 @@
         "id": 3,
         "name": "Angle Grinder",
         "price": 110,
-        "description": "Eletric Grinder 220 watts",
+        "description": "Electric Grinder 220 watts",
         "image": "https://www.airgas.com/medias/CM-0000005F84-Product-DEWDWE402N-270Wx270H?context=bWFzdGVyfHByb2R1Y3R8MTAyMTV8aW1hZ2UvanBlZ3xwcm9kdWN0L2gwNi9oNTMvMTE0OTQxOTk3ODc1NTAuanBnfGQxNTUyNjJlMjk3ZDRiMzVjMDEzNDg0MDMxZDYyNjE2M2NhOGUwZTYyZjU5MGFkNGI0NWVkODhlMDM4MjU5NDg",
         "stock": 10
     },
@@ -27,7 +27,7 @@
         "id": 4,
         "name": "Lithium Blower",
         "price": 90,
-        "description": "Eletric Blower 200 watts",
+        "description": "Electric Blower 200 watts",
         "image": "https://www.airgas.com/medias/270Wx270H-DEWDCBL770X1.png?context=bWFzdGVyfHByb2R1Y3R8NDYzODl8aW1hZ2UvcG5nfHByb2R1Y3QvaGEwL2gyMS8xMjE3NDQyMzI5Mzk4Mi5wbmd8Mzc4N2M4ZjQ4NWNmYTc3NGQxMDdiYmFkYWY1MjYxZGFlMjUxNzEwZTA5Mjc0YWU2MDAzYmYxZTI2YTk5ZmRkYg",
         "stock": 10
     },
@@ -35,7 +35,7 @@
         "id": 5,
         "name": "Jig Saw",
         "price": 90,
-        "description": "Eletric Jig Saw 200 watts",
+        "description": "Electric Jig Saw 200 watts",
         "image": "https://www.airgas.com/medias/DEWDCS334B-A-270Wx270H?context=bWFzdGVyfHByb2R1Y3R8MjMxMDB8aW1hZ2UvanBlZ3xwcm9kdWN0L2gwZS9oNDAvMTIxMDA4NzIzMzk0ODYuanBnfGJjYTE0OWY3ZmU2MjIxM2U3MTAxNTUzYjQ2MzQxZTVkMDAxYmNhNzYwODA2YzRkYmI5NjE1MGM1MGE5MWQzYmM",
         "stock": 10
     },
@@ -43,7 +43,7 @@
         "id": 6,
         "name": "Double Speed Drill",
         "price": 150,
-        "description": "Eletric Double Speed Drill 400 watts",
+        "description": "Electric Double Speed Drill 400 watts",
         "image": "https://www.airgas.com/medias/270Wx270H-DEWDCF860B.png?context=bWFzdGVyfHByb2R1Y3R8NDM5NDF8aW1hZ2UvcG5nfHByb2R1Y3QvaDhkL2hkMi8xMjE5NjY4ODU2MDE1OC5wbmd8MTdjZGNjOGMwNmRiOTMyMDQxYjM0NWFhNjRmMjJhY2VkMDkwNDc4NGMwZTdjMGY1ZGJlYjZlMDI1OWVmNTU3Ng",
         "stock": 10
     },
@@ -51,7 +51,7 @@
         "id": 7,
         "name": "Profile Cutting Machine",
         "price": 90,
-        "description": "Eletric Cutting Machine 200 watts",
+        "description": "Electric Cutting Machine 200 watts",
         "image": "https://www.airgas.com/medias/CM-000000H0PT-Product-DEWDWS780-1200Wx1200H?context=bWFzdGVyfHByb2R1Y3R8MjI1NTg1fGltYWdlL2pwZWd8cHJvZHVjdC9oYWYvaDQyLzExODcxODM5OTQ0NzM0LmpwZ3w4NGQzNzJlZWU5MTUwZDkzN2I0YmY0MjQyNDJiNTA1OWJhOGNjNTllYjJhYWM2Yzg3ODIxODNkMzFjODY1MDFj",
         "stock": 10
     },
@@ -59,7 +59,7 @@
         "id": 8,
         "name": "Hammer Drill",
         "price": 90,
-        "description": "Eletric Hammer Drill 200 watts",
+        "description": "Electric Hammer Drill 200 watts",
         "image": "https://www.airgas.com/medias/270Wx270H-DEWD25911K.png?context=bWFzdGVyfHByb2R1Y3R8MjgxOTd8aW1hZ2UvcG5nfHByb2R1Y3QvaDM0L2gzZS8xMjE3NzA2MTA1MjQ0Ni5wbmd8OGQ4YWExNGU2OTBlMTA4MWJlNWZjNjAwYTNmNWRjZjE3OTU2YTVkMjg0MTIwYjQ3YzM3NzlmMjgxZjJjYjMyMg",
         "stock": 10
     },
@@ -67,7 +67,7 @@
         "id": 9,
         "name": "Mixer Drill",
         "price": 80,
-        "description": "Eletric Mixer Drill 190 watts",
+        "description": "Electric Mixer Drill 190 watts",
         "image": "https://www.airgas.com/medias/1200Wx1200H-DEWDCD130B.png?context=bWFzdGVyfHByb2R1Y3R8MzcwNzIxfGltYWdlL3BuZ3xwcm9kdWN0L2g4Yi9oNTkvMTIxNzcwNjI3NTYzODIucG5nfDdiZjM2OTU5ZTgxZTY2ZDI0YTg1MDJlOTI3NWFkYTI1OTc3M2FmYzQ0M2Q3YTE3NzUyNjY4NmEwZTk1MjIyNTc",
         "stock": 10
     },
@@ -75,7 +75,7 @@
         "id": 10,
         "name": "Orbital Sander",
         "price": 90,
-        "description": "Eletric Orbital Sander 200 watts",
+        "description": "Electric Orbital Sander 200 watts",
         "image": "https://www.airgas.com/medias/1200Wx1200H-DWMT70781-1.jpg?context=bWFzdGVyfHByb2R1Y3R8Njg3MDR8aW1hZ2UvanBlZ3xwcm9kdWN0L2g3NS9oZDYvMTIxOTY2ODM4MDg3OTguanBnfDkxZGI0MjJkODUyNDlmNDFiNGRiOWVhOTY4MzAzZjMyZWU3YzQ2YTQxYWE4YWNhMDM3MTc2NzMxZmQyM2E5ZDM",
         "stock": 10
     }
