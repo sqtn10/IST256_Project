@@ -3,52 +3,33 @@ import { Container, Row, Col } from "react-bootstrap";
 
 const Footer = () => {
     return (
-        <footer className="footer bg-dark text-light pt-5 mt-5">
+        <footer className="footer bg-dark text-light pt-2 mt-5">
             <Container>
                 <Row>
 
-                    <Col md={3}>
-                        <h6 className="fw-bold">Customer Service</h6>
-                        <ul className="list-unstyled">
-                            <li><a href="#" className="footer-link">Contact Us</a></li>
-                            <li><a href="#" className="footer-link">Order Status</a></li>
-                            <li><a href="#" className="footer-link">Returns</a></li>
-                            <li><a href="#" className="footer-link">FAQ</a></li>
-                        </ul>
-                    </Col>
-                    <Col md={3}>
-                        <h6 className="fw-bold">About</h6>
-                        <ul className="list-unstyled">
-                            <li><a href="#" className="footer-link">Our Story</a></li>
-                            <li><a href="#" className="footer-link">Careers</a></li>
-                            <li><a href="#" className="footer-link">Press</a></li>
-                            <li><a href="#" className="footer-link">Investors</a></li>
-                        </ul>
-                    </Col>
+                
+            <Col md={12} className="text-center mb-4">
+            <h6 className="fw-bold">Contact</h6>
 
-                    <Col md={3}>
-                        <h6 className="fw-bold">Shop</h6>
-                        <ul className="list-unstyled">
-                            <li><a href="#" className="footer-link">Tools</a></li>
-                            <li><a href="#" className="footer-link">Appliances</a></li>
-                            <li><a href="#" className="footer-link">Outdoor</a></li>
-                            <li><a href="#" className="footer-link">Decor</a></li>
-                        </ul>
-                    </Col>
+        <span className="me-4">
+            Email: support@HomeDepot.comq
+        </span>
 
-                    <Col md={3}>
-                        <h6 className="fw-bold">Contact</h6>
-                        <p className="mb-1">Email: support@HomeDeport.com</p>
-                        <p className="mb-1">Phone: (610)265-7380</p>
-                        <p>Location: 181 S Gulph Road King Of Prussia, PA 19406</p>
-                    </Col>
+            <span className="me-4">
+             Phone: (610) 265-7380
+            </span>
+
+        <span>
+            Location: 181 S Gulph Road King Of Prussia, PA 19406
+        </span>
+            </Col>
                 </Row>
                 <hr className="border-light" />
 
                 <Row className="text-center text-md-between pb-3">
                     <Col md={6}>
                         <p className="mb-0">
-                            © {new Date().getFullYear()} HomeDeport. All rights reserved.
+                            © {new Date().getFullYear()} HomeDepot. All rights reserved.
                         </p>
                     </Col>
 
