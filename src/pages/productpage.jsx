@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Container, Row, Col, Card, Nav } from 'react-bootstrap';
+import { Container, Row, Col, Card, Nav, Button } from 'react-bootstrap';
 import products from '../data/products.json';
 
 export default class ProductPage extends Component {
@@ -20,13 +20,16 @@ export default class ProductPage extends Component {
                                 </div>
                                 <Card.Body className="p-0">
                                     <Card.Title className="fs-6 fw-normal mb-1 text-truncate-2" style={{ height: '40px', overflow: 'hidden' }}>
-                                        {item.name} - {item.description}
+                                        {item.description}
                                     </Card.Title>
                                     <div className="d-flex align-items-start mt-2">
                                         <span className="fs-6 fw-bold mt-1">$</span>
                                         <span className="fs-2 fw-bold">{Math.floor(item.price)}</span>
                                         <span className="fs-6 fw-bold mt-1">00</span>
                                     </div>
+                                    <Button className="w-100 fw-bold mt-2 border-0" style={{ backgroundColor: 'orange', color: 'white' }}>
+                                        Add to Cart
+                                    </Button>
                                 </Card.Body>
                             </Card>
                         </Col>

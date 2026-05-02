@@ -3,80 +3,80 @@
         "id": 1,
         "name": "Drill",
         "price": 100,
-        "description": "High performance eletric drill that delivers 210 unit watts out",
-        "image": "https://www.mrpowertools.com/data/watermark/20230906/64f815fd03e83.jpg",
+        "description": "Eletric Drill 210 watts",
+        "image": "https://www.airgas.com/medias/270Wx270H-DEWDCD798B.png?context=bWFzdGVyfHByb2R1Y3R8NDkyMTh8aW1hZ2UvcG5nfHByb2R1Y3QvaDc2L2g4OS8xMjE3NDQyNDA4MDQxNC5wbmd8ZWZjNDViYzZjOGI0YjZiYWM3ZWFhMWMzYmI1Y2Q3ZWYwOGViYzk3YjRiZmM4YWJhODA0MDk0ZjNmYTZlMzNhYQ",
         "stock": 10
     },
     {
         "id": 2,
         "name": "Electric Saw",
         "price": 120,
-        "description": "High performance eletric saw that delivers 230 unit watts out",
-        "image": "https://www.mrpowertools.com/data/watermark/20230603/647af3ef6ebb6.jpg",
+        "description": "Eletric Saw 230 watts",
+        "image": "https://www.airgas.com/medias/CM-000000ORZD-Product-DEWDCS391P1-270Wx270H?context=bWFzdGVyfHByb2R1Y3R8MTkzODV8aW1hZ2UvanBlZ3xwcm9kdWN0L2gyYy9oZDIvMTIwOTIwMTQ4MjE0MDYuanBnfDY1NTRmMzNmZmZkODI4NWJhOTlkYzkwZDFiNjYyNTlkNWRmMTlhZjA2OGMyNmJlOGMwNWM5NzY1ODhjMTM1NjY",
         "stock": 10
     },
     {
         "id": 3,
         "name": "Angle Grinder",
         "price": 110,
-        "description": "High performance eletric grinder that delivers 220 unit watts out",
-        "image": "https://www.mrpowertools.com/data/watermark/20230705/64a51e5154511.jpg",
+        "description": "Eletric Grinder 220 watts",
+        "image": "https://www.airgas.com/medias/CM-0000005F84-Product-DEWDWE402N-270Wx270H?context=bWFzdGVyfHByb2R1Y3R8MTAyMTV8aW1hZ2UvanBlZ3xwcm9kdWN0L2gwNi9oNTMvMTE0OTQxOTk3ODc1NTAuanBnfGQxNTUyNjJlMjk3ZDRiMzVjMDEzNDg0MDMxZDYyNjE2M2NhOGUwZTYyZjU5MGFkNGI0NWVkODhlMDM4MjU5NDg",
         "stock": 10
     },
     {
         "id": 4,
         "name": "Lithium Blower",
         "price": 90,
-        "description": "High performance eletric blower that delivers 200 unit watts out",
-        "image": "https://www.mrpowertools.com/data/watermark/20231115/655479bce7b31.jpg",
+        "description": "Eletric Blower 200 watts",
+        "image": "https://www.airgas.com/medias/270Wx270H-DEWDCBL770X1.png?context=bWFzdGVyfHByb2R1Y3R8NDYzODl8aW1hZ2UvcG5nfHByb2R1Y3QvaGEwL2gyMS8xMjE3NDQyMzI5Mzk4Mi5wbmd8Mzc4N2M4ZjQ4NWNmYTc3NGQxMDdiYmFkYWY1MjYxZGFlMjUxNzEwZTA5Mjc0YWU2MDAzYmYxZTI2YTk5ZmRkYg",
         "stock": 10
     },
     {
         "id": 5,
         "name": "Jig Saw",
         "price": 90,
-        "description": "High performance eletric jig saw that delivers 200 unit watts out",
-        "image": "https://www.mrpowertools.com/data/watermark/20231115/6554762dc4b7f.jpg",
+        "description": "Eletric Jig Saw 200 watts",
+        "image": "https://www.airgas.com/medias/DEWDCS334B-A-270Wx270H?context=bWFzdGVyfHByb2R1Y3R8MjMxMDB8aW1hZ2UvanBlZ3xwcm9kdWN0L2gwZS9oNDAvMTIxMDA4NzIzMzk0ODYuanBnfGJjYTE0OWY3ZmU2MjIxM2U3MTAxNTUzYjQ2MzQxZTVkMDAxYmNhNzYwODA2YzRkYmI5NjE1MGM1MGE5MWQzYmM",
         "stock": 10
     },
     {
         "id": 6,
-        "name": "Double Speed Impact Drill",
+        "name": "Double Speed Drill",
         "price": 150,
-        "description": "High performance eletric double speed drill that delivers 400 unit watts out",
-        "image": "https://www.mrpowertools.com/data/watermark/20230808/64d1a356d097b.jpg",
+        "description": "Eletric Double Speed Drill 400 watts",
+        "image": "https://www.airgas.com/medias/270Wx270H-DEWDCF860B.png?context=bWFzdGVyfHByb2R1Y3R8NDM5NDF8aW1hZ2UvcG5nfHByb2R1Y3QvaDhkL2hkMi8xMjE5NjY4ODU2MDE1OC5wbmd8MTdjZGNjOGMwNmRiOTMyMDQxYjM0NWFhNjRmMjJhY2VkMDkwNDc4NGMwZTdjMGY1ZGJlYjZlMDI1OWVmNTU3Ng",
         "stock": 10
     },
     {
         "id": 7,
         "name": "Profile Cutting Machine",
         "price": 90,
-        "description": "High performance eletric cutting machine that delivers 200 unit watts out",
-        "image": "https://www.mrpowertools.com/data/watermark/20230603/647b03e437a73.jpg",
+        "description": "Eletric Cutting Machine 200 watts",
+        "image": "https://www.airgas.com/medias/CM-000000H0PT-Product-DEWDWS780-1200Wx1200H?context=bWFzdGVyfHByb2R1Y3R8MjI1NTg1fGltYWdlL2pwZWd8cHJvZHVjdC9oYWYvaDQyLzExODcxODM5OTQ0NzM0LmpwZ3w4NGQzNzJlZWU5MTUwZDkzN2I0YmY0MjQyNDJiNTA1OWJhOGNjNTllYjJhYWM2Yzg3ODIxODNkMzFjODY1MDFj",
         "stock": 10
     },
     {
         "id": 8,
-        "name": "Demolition Hammer",
+        "name": "Hammer Drill",
         "price": 90,
-        "description": "High performance eletric demolition hammer that delivers 200 unit watts out",
-        "image": "https://www.mrpowertools.com/data/watermark/20230606/647e8218b2935.jpg",
+        "description": "Eletric Hammer Drill 200 watts",
+        "image": "https://www.airgas.com/medias/270Wx270H-DEWD25911K.png?context=bWFzdGVyfHByb2R1Y3R8MjgxOTd8aW1hZ2UvcG5nfHByb2R1Y3QvaDM0L2gzZS8xMjE3NzA2MTA1MjQ0Ni5wbmd8OGQ4YWExNGU2OTBlMTA4MWJlNWZjNjAwYTNmNWRjZjE3OTU2YTVkMjg0MTIwYjQ3YzM3NzlmMjgxZjJjYjMyMg",
         "stock": 10
     },
     {
         "id": 9,
-        "name": "Concrete mixer",
+        "name": "Mixer Drill",
         "price": 80,
-        "description": "High performance eletric concrete mixer that delivers 190 unit watts out",
-        "image": "https://www.mrpowertools.com/data/watermark/20230606/647ea519f18a1.jpg",
+        "description": "Eletric Mixer Drill 190 watts",
+        "image": "https://www.airgas.com/medias/1200Wx1200H-DEWDCD130B.png?context=bWFzdGVyfHByb2R1Y3R8MzcwNzIxfGltYWdlL3BuZ3xwcm9kdWN0L2g4Yi9oNTkvMTIxNzcwNjI3NTYzODIucG5nfDdiZjM2OTU5ZTgxZTY2ZDI0YTg1MDJlOTI3NWFkYTI1OTc3M2FmYzQ0M2Q3YTE3NzUyNjY4NmEwZTk1MjIyNTc",
         "stock": 10
     },
     {
         "id": 10,
         "name": "Orbital Sander",
         "price": 90,
-        "description": "High performance eletric orbital sander that delivers 200 unit watts out",
-        "image": "https://www.mrpowertools.com/data/watermark/20230705/64a525ed5beda.jpg",
+        "description": "Eletric Orbital Sander 200 watts",
+        "image": "https://www.airgas.com/medias/1200Wx1200H-DWMT70781-1.jpg?context=bWFzdGVyfHByb2R1Y3R8Njg3MDR8aW1hZ2UvanBlZ3xwcm9kdWN0L2g3NS9oZDYvMTIxOTY2ODM4MDg3OTguanBnfDkxZGI0MjJkODUyNDlmNDFiNGRiOWVhOTY4MzAzZjMyZWU3YzQ2YTQxYWE4YWNhMDM3MTc2NzMxZmQyM2E5ZDM",
         "stock": 10
     }
 ]
