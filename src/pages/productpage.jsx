@@ -27,7 +27,8 @@ export default class ProductPage extends Component {
                                         <span className="fs-2 fw-bold">{Math.floor(item.price)}</span>
                                         <span className="fs-6 fw-bold mt-1">00</span>
                                     </div>
-                                    <Button className="w-100 fw-bold mt-2 border-0" style={{ backgroundColor: 'orange', color: 'white' }}>
+                                    <Button className="w-100 fw-bold mt-2 border-0" style={{ backgroundColor: 'orange', color: 'white' }}
+                                        onClick={() => this.props.addToCart(item)}>
                                         Add to Cart
                                     </Button>
                                 </Card.Body>
