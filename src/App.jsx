@@ -18,7 +18,6 @@ export default class App extends Component {
     }
     addToCart = (product) => {
         const existingItem = this.state.cartItems.find(item => item.id === product.id);
-
         if (existingItem) {
             this.updateQuantity(product.id, 1);
         } else {
@@ -44,6 +43,12 @@ export default class App extends Component {
         const newTotal = filteredCart.reduce((sum, item) => sum + (item.price * item.quantity), 0);
         this.setState({ cartItems: filteredCart, totalPrice: newTotal });
     }
+    resetCart = () => {
+        this.setState({
+            cartItems: [],
+            totalPrice: 0
+        });
+    };
     render() {
         return (
             <>
@@ -61,9 +66,14 @@ export default class App extends Component {
                                 updateQuantity={this.updateQuantity}
                                 removeFromCart={this.removeFromCart}
                                 totalPrice={this.state.totalPrice}
+                            />}
+                        />
+                        <Route path="/checkout" element={
+                            <CheckoutPage
+                                totalPrice={this.state.totalPrice}
+                                resetCart={this.resetCart}
                             />
                         } />
-                        <Route path="/checkout" element={<CheckoutPage totalPrice={this.state.totalPrice} />} />
                     </Routes>
                 </main>
                 <Footer />
